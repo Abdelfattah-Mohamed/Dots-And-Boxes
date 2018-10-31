@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1513953977 source:c:\users\abdelrahman\desktop\programs\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+
+1513967659 source:c:\users\abdelrahman\desktop\new folder (4)\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+
+1513975096 source:c:\users\abdelrahman\desktop\project_24_v1\project\leaderboard.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
+1513974274 c:\users\abdelrahman\desktop\project_24_v1\project\leaderboard.h
+
+1513975219 c:\users\abdelrahman\desktop\project_24_v1\project\mainfunctions.h
+
+1513974274 c:\users\abdelrahman\desktop\project_24_v1\project\printing.h
+
+1513974274 c:\users\abdelrahman\desktop\project_24_v1\project\saveload.h
+
+1513974274 c:\users\abdelrahman\desktop\project_24_v1\project\sidefunctions.h
+
+1513975331 source:c:\users\abdelrahman\desktop\project_24_v1\project\mainfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
+1513975096 source:c:\users\abdelrahman\desktop\project_24_v1\project\printing.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
+1513975096 source:c:\users\abdelrahman\desktop\project_24_v1\project\saveload.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
+1513975096 source:c:\users\abdelrahman\desktop\project_24_v1\project\sidefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
+1513974612 source:c:\users\abdelrahman\desktop\project_24_v1\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	"leaderboard.h"
+	"mainfunctions.h"
+	"printing.h"
+	"saveload.h"
+	"sidefunctions.h"
+
